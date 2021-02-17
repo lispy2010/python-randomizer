@@ -1,2 +1,5 @@
-# python-randomizer
-A small randomizer wrote on Python.
+Python randomizer Readme
+
+this is readme, idk what to write
+(c) 2020-2021 lispy2010
+program will not update
